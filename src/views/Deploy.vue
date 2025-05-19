@@ -245,7 +245,7 @@
 						Upload files
 					</button><button
 						class="rounded p-2 bg-slate-200 block w-full mt-2"
-						@click="uploadFolde()"
+						@click="uploadFolder()"
 					>
 						Upload folder
 					</button><button
